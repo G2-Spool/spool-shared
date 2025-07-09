@@ -2,6 +2,8 @@
 
 Common utilities and shared code for Spool microservices.
 
+**Status:** ✅ Deployed to CodeBuild
+
 ## Features
 
 - **Authentication**: JWT token validation utilities
